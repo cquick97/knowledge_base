@@ -3,3 +3,7 @@
 basically this is just a collection of cheatsheets and stuff that i like to reference when doing various sec/dev stuff
 
 hopefully it ends up having a lot of info
+
+[docker](docker.md)
+
+[vim](vim.md)

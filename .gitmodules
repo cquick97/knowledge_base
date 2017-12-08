@@ -1,0 +1,3 @@
+[submodule "external_cheatsheets/docker-cheat-sheet"]
+	path = external_cheatsheets/docker-cheat-sheet
+	url = git@github.com:wsargent/docker-cheat-sheet.git
