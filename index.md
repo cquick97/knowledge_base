@@ -6,4 +6,6 @@ hopefully it ends up having a lot of info
 
 [docker](docker.md)
 
+[pentest](pentest.md)
+
 [vim](vim.md)
